@@ -1,3 +1,8 @@
+# Mandelbrot-set-parallel
+Mandelbrot set parallel using the java.util.concurrent library
+
+
+
 This is a project developed in the Java programming language and focused on parallel and distributed programming. The GUI was developed using JavaFX, while the parallel version was created using the java.util.concurrent library.
 
 
